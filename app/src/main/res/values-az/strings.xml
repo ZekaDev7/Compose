@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeLesson</string>
+    <string name="text">Salam</string>
+    <string name="nextBtn">Yeni</string>
+</resources>

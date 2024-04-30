@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeLesson</string>
+    <string name="text">Hello</string>
+    <string name="nextBtn">Next</string>
+</resources>
